@@ -5,4 +5,4 @@
 3. [Практика №3](https://github.com/slavastrybak/ASZII/blob/main/PR3/Prac3.ipynb)
 4. [Практика №4](https://github.com/slavastrybak/ASZII/blob/main/PR4/Prac4.ipynb)
 5. [Практика №5](https://github.com/slavastrybak/ASZII/blob/main/PR5/Prac5.ipynb)
-6. [Практика №6](https://github.com/slavastrybak/ASZII/blob/main/PR5/Prac6.ipynb)
+6. [Практика №6](https://github.com/slavastrybak/ASZII/blob/main/PR6/Prac6.ipynb)
